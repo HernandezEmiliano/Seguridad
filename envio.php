@@ -1,6 +1,6 @@
 <?php
 //registrar
-$conexion=mysqli_connect("localhost:3307","root","","salosnoc");
+$conexion=mysqli_connect("localhost:3306","root","","salosnoc");
 
 
 
