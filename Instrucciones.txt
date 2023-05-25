@@ -12,11 +12,13 @@ Paso 3: Configurar los archivos de conexión, según sea sus necesidades
 	-> conexionadmin.php
 	-> conec.php
 	-> db.php
+	->global/config.php
 Paso 4: Dirigirse a la dirección "http://localhost/Seguridad/login.html"
 
 Paso 5: ingresar un correo cualquiera
 
 Paso 6: ingresar en el campo de contraseña la sentencia =>  'OR'1'='1
+
 
 Paso 7: Hacer algunos cambios en el CRUD, de usuarios
 
