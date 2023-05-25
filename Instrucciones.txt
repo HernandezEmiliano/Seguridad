@@ -1,0 +1,33 @@
+INSTRUCCIONES
+
+
+
+Paso 1: Abrir su DBMS y crear una base de datos llamada "salosnoc"
+
+
+Paso 2: Ir a su DBMS y correr el query que se encuentra en la carpeta raiz
+
+
+Paso 3: Configurar los archivos de conexión, según sea sus necesidades
+	-> conexionadmin.php
+	-> conec.php
+	-> db.php
+Paso 4: Dirigirse a la dirección "http://localhost/Seguridad/login.html"
+
+Paso 5: ingresar un correo cualquiera
+
+Paso 6: ingresar en el campo de contraseña la sentencia =>  'OR'1'='1
+
+Paso 7: Hacer algunos cambios en el CRUD, de usuarios
+
+Paso 8: Solucionar vulnerabilidad:
+	-> ir al archivo loginn.php, y descomentar el codigo, borrar lo demás de abajo
+
+
+
+
+
+
+
+
+
